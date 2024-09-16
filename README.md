@@ -4,8 +4,8 @@ Elle Sanchez
 
 For the following review, I decided to use ChatGPT4 to analyze both Russell’s Paradox and Liar’s Paradox and explore their implications on programming languages.
 
-# Question: How do Russell’s Paradox and the Liar’s Paradox together influence the design of self-referential systems and consistency in programming languages?
-# Follow-Up Questions
+### Question: How do Russell’s Paradox and the Liar’s Paradox together influence the design of self-referential systems and consistency in programming languages?
+### Follow-Up Questions
 * How has the question been addressed in the past?
 * What are the historical developments?
 * Which subfields of PL contributed to investigating the question?
